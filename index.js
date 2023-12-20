@@ -15,7 +15,7 @@
 // saida deve ter O heroi de nome --- está no nivel ---
 
 let nomeHeroi = "Saitama"
-let xpHeroi = 8400
+let xpHeroi = 11000
 
 if (xpHeroi <= 1000){
     console.log( nomeHeroi + ", seu nível é Ferro! Sua pontuação total é: " + xpHeroi)
